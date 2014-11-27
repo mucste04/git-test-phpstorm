@@ -6,3 +6,4 @@
  * Time: 12:03 PM
  */
 echo "hello PHP";
+echo "This is a new line";
